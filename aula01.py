@@ -17,3 +17,4 @@ def retirar_produto(index, quantidade_retirada):
             print("Quantidade insuficiente para retirada.")
     else:
         print("Índice fora do intervalo.")
+
