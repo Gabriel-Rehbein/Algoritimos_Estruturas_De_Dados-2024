@@ -3,6 +3,7 @@ from Cidade import Cidade
 from Categoria import Categoria
 from Produto import Produto
 from Pedido import Pedido
+from Perecivel import Perecivel 
 
 cid01 = Cidade()
 cid02 = Cidade("Porto Alegre")
